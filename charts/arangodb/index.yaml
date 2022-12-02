@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  arangodb:
+  - apiVersion: v2
+    appVersion: "382"
+    created: "2022-12-01T10:11:45.126989292Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d60cb64a25e95769b07a568a0da6e56b7099cc47def62da116b256d6934218c
+    name: arangodb
+    type: application
+    urls:
+    - arangodb-382.tgz
+    version: "382"
+generated: "2022-12-01T10:11:45.125911916Z"
+
